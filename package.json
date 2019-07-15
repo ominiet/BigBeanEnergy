@@ -1,0 +1,14 @@
+{
+  "name": "BigBeanEnergy",
+  "version": "1.0.0",
+  "description": "BeanBeanBean",
+  "main": "app.js",
+  "author": "Oscar Miniet <ominiet96@hotmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
